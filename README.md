@@ -4,7 +4,8 @@
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+<img width="1703" alt="Screenshot 2024-10-30 at 4 19 50 AM" src="https://github.com/user-attachments/assets/34c6c718-7e58-4b2d-921c-5d40bf7a7516">
+
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
 
