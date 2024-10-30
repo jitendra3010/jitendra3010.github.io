@@ -4,10 +4,11 @@
 
 ## Preview
 
-<img width="1703" alt="Screenshot 2024-10-30 at 4 19 50 AM" src="https://github.com/user-attachments/assets/34c6c718-7e58-4b2d-921c-5d40bf7a7516">
+<img width="1675" alt="Screenshot 2024-10-30 at 2 14 17 PM" src="https://github.com/user-attachments/assets/51d9a46d-4692-423d-92d5-090e7e474470">
 
 
-**[View Live Preview](https://jmishra.githug.io/)**
+
+**[View Live Preview](https://jitendra3010.github.io)**
 
 ## Status
 
