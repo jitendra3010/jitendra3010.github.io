@@ -4,8 +4,7 @@
 
 ## Preview
 
-<img width="1675" alt="Screenshot 2024-10-30 at 2 14 17 PM" src="https://github.com/user-attachments/assets/51d9a46d-4692-423d-92d5-090e7e474470">
-
+<img width="1710" alt="Screenshot 2024-12-03 at 9 24 46 PM" src="https://github.com/user-attachments/assets/bf710159-2f8a-438e-9bca-bd7272d87deb">
 
 
 **[View Live Preview](https://jitendra3010.github.io)**
