@@ -34,9 +34,11 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./_site
+          destination: ./docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs # Point to the `/docs` directory for deployment
 
   # Deployment job
   deploy:
